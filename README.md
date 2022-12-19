@@ -3,9 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
 
 # LIVE SITE
-```
-(https://moonlit-banoffee-1631d0.netlify.app/)
-```
+[SITE](https://moonlit-banoffee-1631d0.netlify.app/)
 
 ## Development server
 
